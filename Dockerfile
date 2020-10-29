@@ -1,4 +1,4 @@
-FROM composer:1.10.15
+FROM composer:2
 
 LABEL repository="https://github.com/php-actions/composer"
 LABEL homepage="https://github.com/php-actions/composer"
